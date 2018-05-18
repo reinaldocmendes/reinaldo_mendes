@@ -15,9 +15,9 @@ owner:
   avatar: hmfaysal.jpg
   email:  naldo.mendes@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:  Engenheiro de Computação#Awesome Dude, Awesome Life
+  description:  Engenheiro de Computação #Awesome Dude, Awesome Life
   # Social networking links used in footer. Update and remove as you like.
-  twitter:  @EngDeComputacao
+  twitter:  EngDeComputacao
   facebook:       #--
   github: reinaldocmendes      
   instagram:  #--
