@@ -29,9 +29,10 @@ chart: true
 
 Meu nome é **Reinaldo Carlos Mendes** e esse é um site para falar sobre computação. Aqui nesse site você vai encontrar temas como **_Inteligência Artificial, Mineração de Dados, Linguagens de Programação, Sistemas embarcados, Bancos de Dados e muito mais!_**
 
-Sou engenheiro da computação com especialização em banco de dados. Com 10 anos de atuação no mercado privado administrando redes, desenvolvendo softwares, ministrando aulas, atualmente sou pesquisador e aluno no curso de mestrado em modelagem matemática e computacional, no qual foco minha pesquisa em aprendizado de máquina (Deep Learning).
+Sou engenheiro da computação com especialização em banco de dados. Com 10 anos de atuação no mercado privado administrando redes, desenvolvendo softwares, ministrando aulas, atualmente sou pesquisador e aluno no curso de mestrado em modelagem matemática e computacional, no qual, foco minha pesquisa em aprendizado de máquina (Deep Learning).
 
 Hoje minhas atenções estão voltadas para o campo da inteligência artificial e Análise de Dados, tema qual será bastante recorrente aqui no site.
 
 _Reinaldo C. Mendes_
+
 _Engenheiro da Computação_
