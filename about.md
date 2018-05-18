@@ -33,5 +33,5 @@ Sou engenheiro da computação com especialização em banco de dados. Com 10 an
 
 Hoje minhas atenções estão voltadas para o campo da inteligência artificial e Análise de Dados, tema qual será bastante recorrente aqui no site.
 
-***_Reinaldo C. Mendes_*** <br>
-***_Engenheiro da Computação_***
+**_Reinaldo C. Mendes_** <br>
+**_Engenheiro da Computação_**
