@@ -11,16 +11,16 @@ url:        	  /reinaldo_blog
 
 # Owner/author information
 owner:
-  name:           Reinaldo Carlos Mendes
-  avatar:         hmfaysal.jpg
-  email:          naldo.mendes@gmail.com
+  name: Reinaldo Carlos Mendes
+  avatar: hmfaysal.jpg
+  email:  naldo.mendes@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Engenheiro de Computação#Awesome Dude, Awesome Life
+  description:  Engenheiro de Computação#Awesome Dude, Awesome Life
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        @EngDeComputacao
+  twitter:  @EngDeComputacao
   facebook:       #--
-  github:         reinaldocmendes      
-  instagram:      #--
+  github: reinaldocmendes      
+  instagram:  #--
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    #https://plus.google.com/u/0/102602916593522619858
 
@@ -45,8 +45,8 @@ links:
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    	America/Sao_Paulo
-future:      true
+timezone: America/Sao_Paulo
+future: true
 highlighter: pygments
 markdown:    kramdown
 paginate:    5
