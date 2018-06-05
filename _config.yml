@@ -33,7 +33,7 @@ bing_verify:
 # Links to include in footer navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: Inicio
     url: /
     external: false
     icon: home
