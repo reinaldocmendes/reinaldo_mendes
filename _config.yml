@@ -39,9 +39,9 @@ links:
     icon: home
   - title: Featured Posts
     url: /featured
-  - title: Categories
+  - title: Categorias
     url: /categories
-  - title: About
+  - title: Sobre
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
